@@ -29,7 +29,7 @@ Não se pode fazer nenhuma relação lógica, sendo necessário o cálculo massi
 
 Este projeto poderá ser feito em grupos de até 3 alunos. As entregas serão pelo GitHub, com as seguintes datas:
 
-* Etapa 1 - Entrega em 22/10/2023
+* Etapa 1 - Entrega em 29/10/2023
 * Etapa 2 - Entrega em 05/11/2023
 * Etapa 3 - Entrega em 19/11/2023
 
