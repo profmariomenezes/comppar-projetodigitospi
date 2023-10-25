@@ -19,7 +19,7 @@ Etapas da solução:
 
 Os dígitos de Pi deverão ser calculados a partir da fórmula abaixo:
 
-$$\pi = 4 \left( 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \dots + (-1)^n \frac{1}{2n - 1} + \dots \right)$$
+$$\pi = 4 \left( 1 - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \dots + (-1)^n \frac{1}{2n + 1} + \dots \right)$$
 
 Ou seja, é para calcular na _força bruta_.
 
